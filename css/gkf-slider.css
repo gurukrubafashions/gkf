@@ -216,6 +216,18 @@ Single slide style
 .cd-vc-slider li:nth-of-type(2) {
   background-image: url(../img/home/kids.jpg);
 }
+.cd-vc-slider li:nth-of-type(3) {
+  background-image: url(../img/home/kids1.jpg);
+}
+.cd-vc-slider li:nth-of-type(4) {
+  background-image: url(../img/home/kids2.jpg);
+}
+.cd-vc-slider li:nth-of-type(5) {
+  background-image: url(../img/home/kids3.jpg);
+}
+.cd-vc-slider li:nth-of-type(6) {
+  background-image: url(../img/home/kids4.jpg);
+}
 
 .cd-vc-slider .cd-full-width,
 .cd-vc-slider .cd-half-width {
