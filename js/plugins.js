@@ -173,9 +173,9 @@ jQuery(document).ready(function($){
   Lightbox.defaults = {
     albumLabel: 'Image %1 of %2',
     alwaysShowNavOnTouchDevices: false,
-    fadeDuration: 600,
+    fadeDuration: 100,
     fitImagesInViewport: true,
-    imageFadeDuration: 600,
+    imageFadeDuration: 100,
     // maxWidth: 800,
     // maxHeight: 600,
     positionFromTop: 50,
