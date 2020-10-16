@@ -1,5 +1,5 @@
 
-# VEDA Circle Application 
+# Guru Kruba Fashions Application 
  
 
 ## Install
